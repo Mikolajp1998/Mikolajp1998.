@@ -1,0 +1,43 @@
+/*--change the font for all elements---*/
+*{
+    font-family: Helvetica;
+}
+/*--title container---*/
+#title{
+    background-image: url(/Resources/images/pattern.webp);
+}
+/*--Title heading---*/
+#title-text{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    
+}
+ /*----Style all the sub headings----*/
+.subheading{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+   
+}
+/*--brushes subheading---*/
+#brushes-subheading{
+    background-color: mediumspringgreen;
+}
+/*--span class for pricing---*/
+.price-style{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+#frames-subheading{
+    background-color: lightcoral;
+
+}
+#paint-subheading{
+    background-color: skyblue;
+}
